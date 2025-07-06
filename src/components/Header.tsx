@@ -15,7 +15,7 @@ const Header = () => {
               <Heart className="w-5 h-5 text-white" />
             </div>
             <span className="text-2xl font-bold text-foreground">
-              Talk & Day
+              Talk & Date
             </span>
           </div>
           

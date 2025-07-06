@@ -17,7 +17,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Talk & Day
+          Talk & Date
         </h1>
         <p className="text-xl md:text-2xl mb-4 font-light opacity-90">
           Real People. Real Connections.

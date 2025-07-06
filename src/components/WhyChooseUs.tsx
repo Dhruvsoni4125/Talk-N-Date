@@ -39,7 +39,7 @@ const WhyChooseUs = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Why Choose Talk & Day?
+            Why Choose Talk & Date?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We're not just another dating platform. We're your trusted partner in finding 

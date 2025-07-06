@@ -18,7 +18,7 @@ const buttonVariants = cva(
           "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
-        // Talk & Day specific variants using design system
+        // Talk & Date specific variants using design system
         hero: "bg-gradient-to-r from-primary to-primary-light text-primary-foreground shadow-elegant hover:shadow-glow transition-all duration-300 font-semibold",
         cta: "bg-gradient-to-r from-primary to-secondary text-white hover:scale-105 shadow-elegant hover:shadow-glow transition-all duration-300 font-bold",
         premium: "bg-gradient-to-r from-secondary to-accent text-white border-0 hover:scale-105 shadow-card transition-all duration-300",

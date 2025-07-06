@@ -12,7 +12,7 @@ const PeopleCarousel = () => {
       image: womanImage,
       name: "Sarah, 28",
       location: "London, UK",
-      quote: "Found my perfect match through Talk & Day's secure platform. The live photo verification gave me confidence in every conversation."
+      quote: "Found my perfect match through Talk & Date's secure platform. The live photo verification gave me confidence in every conversation."
     },
     {
       image: manImage,
